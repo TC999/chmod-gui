@@ -10,6 +10,7 @@
         "help": "Help",
         "generated_command": "Generated Command: ",
         "help_message": "Select the permissions for owner, group, and others. Then, enter the file name and click 'Generate Command' to get the chmod command.",
+        "Warning": "Warning",
         "warning_message": "The command 'chmod 777' or 'chmod -R 777 /usr' can be very dangerous. It sets full permissions to everyone which can lead to security issues or system malfunction.",
         "copy_command": "Copy Command"
     },
@@ -24,6 +25,7 @@
         "help": "帮助",
         "generated_command": "生成的命令: ",
         "help_message": "选择所有者、组和其他人的权限。然后，输入文件名并点击'生成命令'以获取chmod命令。",
+        "Warning": "警告",
         "warning_message": "命令'chmod 777'或'chmod -R 777 /usr'可能非常危险。它为所有人设置完全权限，这可能导致安全问题或系统故障。",
         "copy_command": "复制命令"
     }
