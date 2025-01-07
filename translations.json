@@ -1,5 +1,6 @@
  {
     "en": {
+        "Chmod Command Generator": "Chmod Command Generator",
         "owner_permissions": "Owner permissions (rwx)",
         "group_permissions": "Group permissions (rwx)",
         "others_permissions": "Others permissions (rwx)",
@@ -13,6 +14,7 @@
         "copy_command": "Copy Command"
     },
     "zh": {
+        "Chmod Command Generator": "Chmod 命令生成器",
         "owner_permissions": "所有者权限 (rwx)",
         "group_permissions": "组权限 (rwx)",
         "others_permissions": "其他人权限 (rwx)",
